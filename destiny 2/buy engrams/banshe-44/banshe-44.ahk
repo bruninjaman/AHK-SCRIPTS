@@ -37,4 +37,5 @@ Loop {
     sleep, %Delay%
 }
 
-ExitApp ;close app after you toggle off
+!G::  ;close script alt+g
+ExitApp
