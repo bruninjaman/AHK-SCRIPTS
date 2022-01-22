@@ -37,5 +37,7 @@ Loop {
     sleep, %Delay%
 }
 
+return
+
 !G::  ;close script alt+g
 ExitApp

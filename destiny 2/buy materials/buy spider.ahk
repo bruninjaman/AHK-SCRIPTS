@@ -17,6 +17,7 @@ Loop
 	sleep, 80
 }
 
+return
 
 !G::  ;close script alt+g
 ExitApp
