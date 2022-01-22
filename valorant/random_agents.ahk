@@ -21,8 +21,8 @@ Var18 := "Neon"
 Shift & q:: Suspend ; pause script
 
 q:: ;trigger the script on valorant chat
-  Sortear("n-->: ")
-  Sortear("d-->: ")
+  Sortear("1: ")
+  Sortear("2: ")
 Return
 
 Sortear(phrase) {
