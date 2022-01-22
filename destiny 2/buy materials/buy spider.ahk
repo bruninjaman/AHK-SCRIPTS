@@ -16,4 +16,7 @@ Loop
 	MouseClick, left
 	sleep, 80
 }
+
+
+!G::  ;close script alt+g
 ExitApp
