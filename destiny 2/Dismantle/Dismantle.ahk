@@ -16,3 +16,6 @@ Loop
 	send {f up}
 	sleep, 700
 }
+
+!G::  ;close script alt+g
+ExitApp
