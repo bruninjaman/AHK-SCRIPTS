@@ -9,4 +9,4 @@
 # how to use it:
 1. put your mouse on item that you want to dismantle.
 2. press 'G', wait for it to dismantle all your items. it will dismantle items in order.
-2. once you're done press alt+g to close your script.
+2. once you're done press alt+g to cnoivalose your script.
