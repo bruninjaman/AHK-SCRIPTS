@@ -1,5 +1,5 @@
 ### Dismantle
-![](L121ayer_1.png)
+![](./dismantle.png)
 - when you press 'G' this script will stop/execute.
 - This script will held F down until dismantle.
 - when you press 'alt+G' this script will exitapp.
