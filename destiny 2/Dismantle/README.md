@@ -1,5 +1,5 @@
 ### Dismantle
-![](https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjF3akpiRmxBdkwuX0FDX1NMMTUwMF8uanBn.jpg)
+![](L121ayer_1.png)
 - when you press 'G' this script will stop/execute.
 - This script will held F down until dismantle.
 - when you press 'alt+G' this script will exitapp.
