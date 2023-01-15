@@ -2,4 +2,4 @@
 
 ### About
 
-These are all my AHK scripts open source.
+These are all my AHK scripts open source, they might be outdated.
